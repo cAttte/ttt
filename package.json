@@ -1,0 +1,21 @@
+{
+    "name": "ttt",
+    "version": "1.0.0",
+    "description": "a command-line tic-tac-toe game. how original!",
+    "bin": "src/cli.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/cAttte/ttt.git"
+    },
+    "author": "catte_",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/cAttte/ttt/issues"
+    },
+    "homepage": "https://github.com/cAttte/ttt#readme",
+    "dependencies": {
+        "boxen": "^4.2.0",
+        "chalk": "^4.1.0",
+        "log-update": "^4.0.0"
+    }
+}
