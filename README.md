@@ -24,5 +24,6 @@ so complex wow
 
 ## todo
 
+-   [ ] detect diagonal wins
 -   [ ] ai for lonely/non-ambidextrous people
 -   [ ] custom symbol per player
